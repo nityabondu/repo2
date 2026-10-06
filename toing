@@ -4,5 +4,15 @@ y = 10
 x, y = y, x
 print("x =", x)
 print("y =", y)
+:wq
+:wq
+
+
+
+
+
+
+
+
 
 this is a pyhton code
